@@ -1,1 +1,1 @@
-arrray 실습
+array 실습
